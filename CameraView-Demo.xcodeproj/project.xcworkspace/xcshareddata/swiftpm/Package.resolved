@@ -1,6 +1,15 @@
 {
-  "originHash" : "2699a068a2d9615d6374e3bd115c225c8e83400dfb73e78a998a60ec997aebe4",
+  "originHash" : "9b25d6bc0bfe55c1af4135803b7bc1dc25d86fe67292223f06deba60f8c14ff1",
   "pins" : [
+    {
+      "identity" : "cameraview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mijick/CameraView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5e086829cb1d4f8197c05f79738b8729e76ff3bc"
+      }
+    },
     {
       "identity" : "timer",
       "kind" : "remoteSourceControl",
